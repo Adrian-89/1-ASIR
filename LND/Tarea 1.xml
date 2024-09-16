@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Eventos>
+    <Evento>
+        <tipo>Accidente</tipo>
+        <Punto_kilométrico>42,200</Punto_kilométrico>
+        <Nombre_via>A-49</Nombre_via>
+        <Sentido>Huelva</Sentido>
+        <Corte_via>1 carril</Corte_via>
+        <Fecha_y_hora>12-3-2024/12:47</Fecha_y_hora>
+        <Retención>Sí</Retención>
+        <Kilometros_de_retención>8</Kilometros_de_retención>
+    </Evento>
+
+    <Evento>
+        <tipo>Retención</tipo>
+        <Punto_kilométrico>550</Punto_kilométrico>
+        <Nombre_via>A-4</Nombre_via>
+        <Sentido>Sevilla</Sentido>
+        <Fecha_y_hora>25-7-2024/16:54</Fecha_y_hora>
+        <Retención>Sí</Retención>
+        <Kilometros_de_retención>8</Kilometros_de_retención>
+    </Evento>
+
+</Eventos>
