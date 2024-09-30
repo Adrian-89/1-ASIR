@@ -2,7 +2,7 @@
 Repositorio dedicado al curso 1º ASIR
 
 ## ASIGNATURAS
-- [LND](LND/Tareas)
+- [LND](LND/)
 - [GTB](GTB/Tareas)  
 - [FUW](FUW/tareas)  
 - [DJK](DJK/Tareas)
